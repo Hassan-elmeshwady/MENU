@@ -23,7 +23,7 @@ body {
 
 .nav-item {
     padding: 0 50px;
-    font-size: 50px;
+    font-size: 80px;
     
 
 }
@@ -39,11 +39,11 @@ a {
     padding: 0 30px;
     margin: 0;
     display: flex;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 .social-media li {
-    margin: 0 10px;
+    margin: 0 20px;
 }
 
 /* إضافة تأثير التموج (Ripple Effect) عند التحويل بالماوس */
