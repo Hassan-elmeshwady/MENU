@@ -103,7 +103,8 @@ body {
 
 .navigation {
     text-align: center;
-    margin: 10px;
+    margin: 20px;
+   
 }
 
 .prev-button,
@@ -111,14 +112,15 @@ body {
     background-color: #007bff;
     color: white;
     border: none;
-    padding: 10px 20px;
-    margin: 5px;
+    padding: 15px 25px;
+    margin: 35px;
+    font-size: 50px;
     cursor: pointer;
 }
 
 .prev-button:hover,
 .next-button:hover {
-    background-color: #ff7f50;
+    background-color: rgb(238, 191, 4);
 }
 
 
@@ -162,8 +164,8 @@ body {
 
 /* تخصيص حجم الصور */
 .social-icons img {
-    width: 30px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
-    height: 30px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
+    width: 60px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
+    height: 60px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
 }
 
 .social-icons a:hover {
